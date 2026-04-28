@@ -1,0 +1,15 @@
+C:\Users\Luan\OneDrive\Documents\Klas\4de jaar\S1\Testing\FA1\Emfuleni_Municipality_Q1_SectionB\Emfuleni_Municipality_Q1_SectionB\bin\Debug\net10.0\Emfuleni_Municipality_Q1_SectionB.exe
+C:\Users\Luan\OneDrive\Documents\Klas\4de jaar\S1\Testing\FA1\Emfuleni_Municipality_Q1_SectionB\Emfuleni_Municipality_Q1_SectionB\bin\Debug\net10.0\Emfuleni_Municipality_Q1_SectionB.deps.json
+C:\Users\Luan\OneDrive\Documents\Klas\4de jaar\S1\Testing\FA1\Emfuleni_Municipality_Q1_SectionB\Emfuleni_Municipality_Q1_SectionB\bin\Debug\net10.0\Emfuleni_Municipality_Q1_SectionB.runtimeconfig.json
+C:\Users\Luan\OneDrive\Documents\Klas\4de jaar\S1\Testing\FA1\Emfuleni_Municipality_Q1_SectionB\Emfuleni_Municipality_Q1_SectionB\bin\Debug\net10.0\Emfuleni_Municipality_Q1_SectionB.dll
+C:\Users\Luan\OneDrive\Documents\Klas\4de jaar\S1\Testing\FA1\Emfuleni_Municipality_Q1_SectionB\Emfuleni_Municipality_Q1_SectionB\bin\Debug\net10.0\Emfuleni_Municipality_Q1_SectionB.pdb
+C:\Users\Luan\OneDrive\Documents\Klas\4de jaar\S1\Testing\FA1\Emfuleni_Municipality_Q1_SectionB\Emfuleni_Municipality_Q1_SectionB\obj\Debug\net10.0\Emfuleni_Municipality_Q1_SectionB.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Luan\OneDrive\Documents\Klas\4de jaar\S1\Testing\FA1\Emfuleni_Municipality_Q1_SectionB\Emfuleni_Municipality_Q1_SectionB\obj\Debug\net10.0\Emfuleni_Municipality_Q1_SectionB.AssemblyInfoInputs.cache
+C:\Users\Luan\OneDrive\Documents\Klas\4de jaar\S1\Testing\FA1\Emfuleni_Municipality_Q1_SectionB\Emfuleni_Municipality_Q1_SectionB\obj\Debug\net10.0\Emfuleni_Municipality_Q1_SectionB.AssemblyInfo.cs
+C:\Users\Luan\OneDrive\Documents\Klas\4de jaar\S1\Testing\FA1\Emfuleni_Municipality_Q1_SectionB\Emfuleni_Municipality_Q1_SectionB\obj\Debug\net10.0\Emfuleni_Municipality_Q1_SectionB.csproj.CoreCompileInputs.cache
+C:\Users\Luan\OneDrive\Documents\Klas\4de jaar\S1\Testing\FA1\Emfuleni_Municipality_Q1_SectionB\Emfuleni_Municipality_Q1_SectionB\obj\Debug\net10.0\Emfuleni_Municipality_Q1_SectionB.sourcelink.json
+C:\Users\Luan\OneDrive\Documents\Klas\4de jaar\S1\Testing\FA1\Emfuleni_Municipality_Q1_SectionB\Emfuleni_Municipality_Q1_SectionB\obj\Debug\net10.0\Emfuleni_Municipality_Q1_SectionB.dll
+C:\Users\Luan\OneDrive\Documents\Klas\4de jaar\S1\Testing\FA1\Emfuleni_Municipality_Q1_SectionB\Emfuleni_Municipality_Q1_SectionB\obj\Debug\net10.0\refint\Emfuleni_Municipality_Q1_SectionB.dll
+C:\Users\Luan\OneDrive\Documents\Klas\4de jaar\S1\Testing\FA1\Emfuleni_Municipality_Q1_SectionB\Emfuleni_Municipality_Q1_SectionB\obj\Debug\net10.0\Emfuleni_Municipality_Q1_SectionB.pdb
+C:\Users\Luan\OneDrive\Documents\Klas\4de jaar\S1\Testing\FA1\Emfuleni_Municipality_Q1_SectionB\Emfuleni_Municipality_Q1_SectionB\obj\Debug\net10.0\Emfuleni_Municipality_Q1_SectionB.genruntimeconfig.cache
+C:\Users\Luan\OneDrive\Documents\Klas\4de jaar\S1\Testing\FA1\Emfuleni_Municipality_Q1_SectionB\Emfuleni_Municipality_Q1_SectionB\obj\Debug\net10.0\ref\Emfuleni_Municipality_Q1_SectionB.dll
