@@ -1,0 +1,17 @@
+C:\Users\Luan\OneDrive\Documents\Klas\4de jaar\S1\Testing\FA1\FavProgLang_Q3\FavProgLang_Q3\obj\Debug\net10.0-windows\FavProgLang_Q3.csproj.GenerateResource.cache
+C:\Users\Luan\OneDrive\Documents\Klas\4de jaar\S1\Testing\FA1\FavProgLang_Q3\FavProgLang_Q3\obj\Debug\net10.0-windows\FavProgLang_Q3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Luan\OneDrive\Documents\Klas\4de jaar\S1\Testing\FA1\FavProgLang_Q3\FavProgLang_Q3\obj\Debug\net10.0-windows\FavProgLang_Q3.AssemblyInfoInputs.cache
+C:\Users\Luan\OneDrive\Documents\Klas\4de jaar\S1\Testing\FA1\FavProgLang_Q3\FavProgLang_Q3\obj\Debug\net10.0-windows\FavProgLang_Q3.AssemblyInfo.cs
+C:\Users\Luan\OneDrive\Documents\Klas\4de jaar\S1\Testing\FA1\FavProgLang_Q3\FavProgLang_Q3\obj\Debug\net10.0-windows\FavProgLang_Q3.csproj.CoreCompileInputs.cache
+C:\Users\Luan\OneDrive\Documents\Klas\4de jaar\S1\Testing\FA1\FavProgLang_Q3\FavProgLang_Q3\obj\Debug\net10.0-windows\FavProgLang_Q3.sourcelink.json
+C:\Users\Luan\OneDrive\Documents\Klas\4de jaar\S1\Testing\FA1\FavProgLang_Q3\FavProgLang_Q3\bin\Debug\net10.0-windows\FavProgLang_Q3.exe
+C:\Users\Luan\OneDrive\Documents\Klas\4de jaar\S1\Testing\FA1\FavProgLang_Q3\FavProgLang_Q3\bin\Debug\net10.0-windows\FavProgLang_Q3.deps.json
+C:\Users\Luan\OneDrive\Documents\Klas\4de jaar\S1\Testing\FA1\FavProgLang_Q3\FavProgLang_Q3\bin\Debug\net10.0-windows\FavProgLang_Q3.runtimeconfig.json
+C:\Users\Luan\OneDrive\Documents\Klas\4de jaar\S1\Testing\FA1\FavProgLang_Q3\FavProgLang_Q3\bin\Debug\net10.0-windows\FavProgLang_Q3.dll
+C:\Users\Luan\OneDrive\Documents\Klas\4de jaar\S1\Testing\FA1\FavProgLang_Q3\FavProgLang_Q3\bin\Debug\net10.0-windows\FavProgLang_Q3.pdb
+C:\Users\Luan\OneDrive\Documents\Klas\4de jaar\S1\Testing\FA1\FavProgLang_Q3\FavProgLang_Q3\obj\Debug\net10.0-windows\FavProgLang_Q3.Form1.resources
+C:\Users\Luan\OneDrive\Documents\Klas\4de jaar\S1\Testing\FA1\FavProgLang_Q3\FavProgLang_Q3\obj\Debug\net10.0-windows\FavProgLang_Q3.dll
+C:\Users\Luan\OneDrive\Documents\Klas\4de jaar\S1\Testing\FA1\FavProgLang_Q3\FavProgLang_Q3\obj\Debug\net10.0-windows\refint\FavProgLang_Q3.dll
+C:\Users\Luan\OneDrive\Documents\Klas\4de jaar\S1\Testing\FA1\FavProgLang_Q3\FavProgLang_Q3\obj\Debug\net10.0-windows\FavProgLang_Q3.pdb
+C:\Users\Luan\OneDrive\Documents\Klas\4de jaar\S1\Testing\FA1\FavProgLang_Q3\FavProgLang_Q3\obj\Debug\net10.0-windows\FavProgLang_Q3.genruntimeconfig.cache
+C:\Users\Luan\OneDrive\Documents\Klas\4de jaar\S1\Testing\FA1\FavProgLang_Q3\FavProgLang_Q3\obj\Debug\net10.0-windows\ref\FavProgLang_Q3.dll
